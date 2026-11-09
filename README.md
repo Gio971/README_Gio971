@@ -3,6 +3,7 @@
 
 My main projects are kept in private repositories, so you won't find much code here. Instead, this README summarizes what I'm working on, the problems I'm solving, and the tools and technologies I use to ship real products.
 
+
 ### 🎟️ Premio — Next-Gen Secure Ticketing Platform
 *Full-stack developer & creator of a production ticketing system for sports and live entertainment.*
 
@@ -10,6 +11,8 @@ My main projects are kept in private repositories, so you won't find much code h
 - **Architecture:** Client-side React 18 SPA coupled with a robust Supabase backend (PostgreSQL RPCs, strict RLS, Deno Edge Functions) and Polygon EVM smart contracts for ticket lifecycle management and minting relayers.
 - **Key Features:** Gasless custodial wallet abstraction, offline-capable scanner PWA, Stripe payment and Connect infrastructure, real-time analytics, and automated sport schedule ingestion.
 - **Technologies:** `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `PostgreSQL` · `Deno` · `Solidity` · `Polygon` · `Stripe`
+
+  
 
 ### 📈 Unicity — Intelligent Portfolio Management & Financial Analytics
 
